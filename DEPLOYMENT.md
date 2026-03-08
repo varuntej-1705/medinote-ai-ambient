@@ -1,7 +1,6 @@
 # MediNote AI – 10-Minute Deployment Guide 🚀
 
 Follow these steps to get your Ambient Clinical Intelligence system live.
-
 ---
 
 ## 1. Backend Deployment (Render.com)
